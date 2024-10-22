@@ -1,0 +1,7 @@
+C:\study\projects\Polygons\Polygons\obj\Debug\Polygons.csproj.AssemblyReference.cache
+C:\study\projects\Polygons\Polygons\obj\Debug\Polygons.csproj.CoreCompileInputs.cache
+C:\study\projects\Polygons\Polygons\bin\Debug\Polygons.exe.config
+C:\study\projects\Polygons\Polygons\bin\Debug\Polygons.exe
+C:\study\projects\Polygons\Polygons\bin\Debug\Polygons.pdb
+C:\study\projects\Polygons\Polygons\obj\Debug\Polygons.exe
+C:\study\projects\Polygons\Polygons\obj\Debug\Polygons.pdb
